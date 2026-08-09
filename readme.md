@@ -17,29 +17,6 @@
 
 </div>
 
-## About Me
-
-```ts
-const barkie = {
-    role: "IT Consultant & Full-Stack Developer",
-    location: "Netherlands",
-
-    focus: [
-        "Web Development",
-        "Software Development",
-        "Automation",
-        "Infrastructure",
-        "Self-hosting"
-    ],
-
-    currentlyBuilding: "OpenVend"
-};
-```
-
-I like building useful software, automating things that shouldn't be manual, and turning ideas into working products.
-
----
-
 ## Tech Stack
 
 <div align="center">

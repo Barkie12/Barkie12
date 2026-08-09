@@ -41,16 +41,6 @@
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barkie12&bg_color=00000000&color=c9d1d9&line=a855f7&point=a855f7&area=true&hide_border=true&custom_title=Barkie's%20GitHub%20Activity" width="100%" />
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">

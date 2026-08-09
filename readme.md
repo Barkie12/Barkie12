@@ -54,46 +54,6 @@ I like building useful software, automating things that shouldn't be manual, and
 
 </div>
 
----
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Barkie12/OpenVend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barkie12&repo=OpenVend&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/Barkie12/SellAuth-SellBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barkie12&repo=SellAuth-SellBot&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-</a>
-
-<br>
-
-<a href="https://github.com/Barkie12/Easy-Documentation-Site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barkie12&repo=Easy-Documentation-Site&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/Barkie12/lightweight-announcement-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barkie12&repo=lightweight-announcement-bot&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Barkie12&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barkie12&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=a855f7&text_color=c9d1d9" />
-
-</div>
-
----
-
 ## Contribution Streak
 
 <div align="center">

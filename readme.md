@@ -2,6 +2,8 @@
 
 # BARKIE
 
+![Profile Views](https://komarev.com/ghpvc/?username=Barkie12&style=flat-square&color=555555&label=PROFILE+VIEWS)
+
 ### IT Consultant · Full-Stack Developer · Builder
 
 <a href="https://barkiedev.cc">

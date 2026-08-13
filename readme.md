@@ -11,11 +11,5 @@
 </a>
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0f0717,50:5b21b6,100:a855f7" width="100%" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f0717,50:5b21b6,100:a855f7" width="100%" />
 <img src="https://komarev.com/ghpvc/?username=Barkie12&style=flat-square&color=a855f7&label=PROFILE+VIEWS" />
 </div>

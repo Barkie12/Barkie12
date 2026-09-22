@@ -9,6 +9,7 @@
 <a href="https://github.com/Barkie12">
   <img src="https://img.shields.io/badge/GitHub-Barkie12-18181b?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=Barkie12&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
 
 <br><br>
 
@@ -18,6 +19,4 @@
   <img alt="Total contributions, current streak and longest streak" src="https://streak-stats.demolab.com/?user=Barkie12&hide_border=true&background=00000000&border=00000000&stroke=00000000&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=9198a1&dates=9198a1" />
 </picture>
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=Barkie12&style=flat-square&color=a855f7&label=PROFILE+VIEWS" />
 </div>

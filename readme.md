@@ -1,8 +1,7 @@
 <div align="center">
 
 # BARKIE
-
-### IT Consultant · Full-Stack Developer · Builder
+### Full-Stack Developer · Builder
 
 <a href="https://barkiedev.cc">
   <img src="https://img.shields.io/badge/Website-barkiedev.cc-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" />

@@ -11,5 +11,13 @@
 </a>
 
 <br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Barkie12&hide_border=true&background=00000000&border=00000000&stroke=00000000&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=9198a1&dates=9198a1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Barkie12&hide_border=true&background=00000000&border=00000000&stroke=00000000&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&currStreakNum=1f2328&sideNums=1f2328&sideLabels=59636e&dates=59636e" />
+  <img alt="Total contributions, current streak and longest streak" src="https://streak-stats.demolab.com/?user=Barkie12&hide_border=true&background=00000000&border=00000000&stroke=00000000&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=9198a1&dates=9198a1" />
+</picture>
+
+<br>
 <img src="https://komarev.com/ghpvc/?username=Barkie12&style=flat-square&color=a855f7&label=PROFILE+VIEWS" />
 </div>
